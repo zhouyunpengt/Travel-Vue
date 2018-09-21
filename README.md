@@ -1,21 +1,13 @@
-# travel
+# Travel (去哪网APP)
+>原网站请访问 http://shop.daqitc.net/home.html#
 
-> A Vue.js project
-
-## Build Setup
+## How to start (启动说明)
 
 ``` bash
-# install dependencies
-npm install
+# install dependencies (安装依赖项)
+yarn install
+You can use npm install instead yarn (如果没有 yarn 可使用 npm install)
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080 (启动服务在localhost:8080端口)
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
